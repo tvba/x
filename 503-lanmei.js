@@ -1,4 +1,5 @@
 {
+  "author": "Tangsan99999",
   "ua": "",
   "homeUrl": "https://lanmeiguojiang.com/index.php",
   "dcVipFlag": "true",
